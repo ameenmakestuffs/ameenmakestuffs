@@ -1,5 +1,5 @@
 
-✦ Currently building StartupsCult<br>✦ Check out my Portfolio<br>✦ Open to collaborating on cool projects<br>✦ Exploring designing & user experience<br>✦ Currently learning React, Next.js and Motion Graphics<br>✦ 3rd Year Computer Science Major<br>✦ Building in public and shipping consistently on X
+✦ Currently building [StartupsCult](https://www.startupscult.com/)<br>✦ Check out my [Portfolio](https://www.ameenansari.me/)<br>✦ Open to collaborating on cool projects<br>✦ Exploring designing & user experience<br>✦ Currently learning React, Next.js and Motion Graphics<br>✦ 3rd Year Computer Science Major<br>✦ Building in public and shipping consistently on [X](https://x.com/theKidwithin)
 
 
 ##  Socials:
