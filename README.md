@@ -1,16 +1,13 @@
-## Hi there 👋
+### hey, I'm Ameen 👋
 
-<!--
-**ameenmakestuffs/ameenmakestuffs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+just building up stuff on the internet.
 
-Here are some ideas to get you started:
+➤ 🛠️ Building with React, TypeScript & Node.js
+➤ 🚀 Turning random 2 AM ideas into actual web apps
+➤ 🎨 Care a lot about clean UI and tiny details
+➤ 🐦 Sharing what I build on [X / Twitter](https://x.com/theKidwithin)
+➤ 📬 Reach me: `your-email@gmail.com`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+*my git commit messages have lore btw.*
