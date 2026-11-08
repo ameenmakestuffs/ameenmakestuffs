@@ -1,18 +1,5 @@
-### hey, I'm Ameen 👋
 
-just building up stuff on the internet.
-
-➤ 🛠️ Building with React, TypeScript & Node.js
-➤ 🚀 Turning random 2 AM ideas into actual web apps
-➤ 🎨 Care a lot about clean UI and tiny details
-➤ 🐦 Sharing what I build on [X / Twitter](https://x.com/theKidwithin)
-➤ 📬 Reach me: `your-email@gmail.com`
-
----
-
-*my git commit messages have lore btw.*
-# 💫 About Me:
-- Currently building **StartupsCult**<br>- Building and shipping solo projects<br>- Open to collaborating on innovative projects<br>- Exploring product development and startups<br>- Currently learning React, Next.js and AI<br>- Ask me about StartupsCult, web development and building products<br>- 3rd Year Computer Science Engineering Student<br>- Building in public and shipping consistently
+✦ Currently building **StartupsCult**<br>✦ Building and shipping solo projects<br>✦ Open to collaborating on innovative projects<br>✦ Exploring product development and startups<br>✦ Currently learning React, Next.js and AI<br>✦ Ask me about StartupsCult, web development and building products<br>✦ 3rd Year Computer Science Engineering Student<br>✦ Building in public and shipping consistently
 
 
 ## 🌐 Socials:
