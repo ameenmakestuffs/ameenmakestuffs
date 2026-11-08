@@ -1,5 +1,5 @@
 
-✦ Currently building **StartupsCult**<br>✦ Building and shipping solo projects<br>✦ Open to collaborating on innovative projects<br>✦ Exploring product development and startups<br>✦ Currently learning React, Next.js and AI<br>✦ Ask me about StartupsCult, web development and building products<br>✦ 3rd Year Computer Science Engineering Student<br>✦ Building in public and shipping consistently
+✦ Currently building StartupsCult<br>✦ Check out my Portfolio<br>✦ Open to collaborating on cool projects<br>✦ Exploring designing & user experience<br>✦ Currently learning React, Next.js and Motion Graphics<br>✦ 3rd Year Computer Science Major<br>✦ Building in public and shipping consistently
 
 
 ##  Socials:
